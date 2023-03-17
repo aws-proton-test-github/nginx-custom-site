@@ -1,0 +1,6 @@
+sync:
+  services:
+    delete-me-now:
+      delete-me-now-alpha:
+        branch: master
+        spec: whatever.yaml
